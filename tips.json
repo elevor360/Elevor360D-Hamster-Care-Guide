@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "title": "Choosing the right hamster species",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Research whether you are keeping a Syrian, dwarf or Chinese hamster.",
+      "Check species-specific housing, diet and handling requirements before buying equipment.",
+      "Plan for one hamster per enclosure."
+    ],
+    "caution": "Hamsters are generally solitary; cohabitation can lead to serious fighting."
+  },
+  {
+    "id": 2,
+    "title": "Why hamsters live alone",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "House each pet hamster separately in a secure enclosure.",
+      "Provide individual wheels, food and hiding places.",
+      "Watch for signs of stress if a hamster has previously been housed with others."
+    ],
+    "caution": "Do not introduce unfamiliar hamsters to share a cage."
+  },
+  {
+    "id": 3,
+    "title": "Choosing a spacious enclosure",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Prioritise generous continuous floor space rather than multiple tiny levels.",
+      "Use a secure, well-ventilated enclosure with a deep substrate base.",
+      "Check current welfare guidance for suitable minimum dimensions for your species."
+    ],
+    "caution": "Small modular cages and tubes are often unsuitable as primary homes."
+  },
+  {
+    "id": 4,
+    "title": "Secure enclosure lids",
+    "category": "Housing",
+    "frequency": "Weekly",
+    "steps": [
+      "Check lid clips, hinges and mesh for gaps.",
+      "Keep tall furnishings away from openings.",
+      "Test that the enclosure closes securely after cleaning."
+    ],
+    "caution": "Hamsters can squeeze through surprisingly small gaps."
+  },
+  {
+    "id": 5,
+    "title": "Deep bedding for burrowing",
+    "category": "Housing",
+    "frequency": "Weekly",
+    "steps": [
+      "Provide a generous depth of safe, low-dust bedding that can hold tunnels.",
+      "Allow the hamster to build burrows without frequent disturbance.",
+      "Top up bedding gently as needed."
+    ],
+    "caution": "Avoid scented bedding and fluffy cotton nesting material."
+  },
+  {
+    "id": 6,
+    "title": "Safe paper bedding",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Choose unscented, low-dust paper-based bedding.",
+      "Check that it is absorbent and suitable for burrowing.",
+      "Remove soiled areas without destroying the whole nest."
+    ],
+    "caution": "Avoid products with strong fragrances or added deodorisers."
+  },
+  {
+    "id": 7,
+    "title": "Avoiding unsafe nesting fluff",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Offer plain unscented toilet tissue or suitable paper nesting material.",
+      "Let the hamster carry and arrange it.",
+      "Remove any stringy or fibrous products from the enclosure."
+    ],
+    "caution": "Cotton wool and similar fluffy fibres can entangle limbs or cause problems if swallowed."
+  },
+  {
+    "id": 8,
+    "title": "Building a multi-chamber hide",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Provide a dark, secure hide large enough for the hamster to turn around.",
+      "Offer multiple chambers or additional shelters.",
+      "Keep at least one hide near the deepest bedding area."
+    ],
+    "caution": "Avoid small entrances that may trap a hamster with full cheek pouches."
+  },
+  {
+    "id": 9,
+    "title": "Choosing a safe running wheel",
+    "category": "Exercise",
+    "frequency": "Daily",
+    "steps": [
+      "Choose a solid-surface wheel large enough for a straight-backed running posture.",
+      "Make sure the wheel spins freely and remains stable.",
+      "Inspect for cracks, sharp edges and trapped bedding."
+    ],
+    "caution": "Avoid wire or mesh running surfaces and wheels that force the back to curve."
+  },
+  {
+    "id": 10,
+    "title": "Wheel placement and stability",
+    "category": "Exercise",
+    "frequency": "Weekly",
+    "steps": [
+      "Position the wheel on a secure platform above deep bedding.",
+      "Check that it cannot tip into burrows.",
+      "Clean accumulated debris from the running surface."
+    ],
+    "caution": "A falling wheel can collapse tunnels or injure a hamster."
+  },
+  {
+    "id": 11,
+    "title": "Providing a sand bath",
+    "category": "Grooming",
+    "frequency": "Weekly",
+    "steps": [
+      "Use a suitable dust-free hamster-safe sand in a sturdy shallow container.",
+      "Allow the hamster to roll and groom naturally.",
+      "Sift soiled areas and replace dirty sand."
+    ],
+    "caution": "Avoid fine chinchilla dust and perfumed bath products."
+  },
+  {
+    "id": 12,
+    "title": "Why hamsters should not be bathed",
+    "category": "Grooming",
+    "frequency": "As needed",
+    "steps": [
+      "Offer a sand bath for normal coat maintenance.",
+      "If fur is soiled, identify the cause and ask a vet about safe spot cleaning.",
+      "Keep the enclosure dry and clean."
+    ],
+    "caution": "Water baths can cause stress and chilling; never use household shampoo."
+  },
+  {
+    "id": 13,
+    "title": "Safe enclosure temperature",
+    "category": "Environment",
+    "frequency": "Daily",
+    "steps": [
+      "Keep the enclosure in a stable indoor room away from direct sun and radiators.",
+      "Check for draughts and overheating.",
+      "Provide ample nesting material for normal comfort."
+    ],
+    "caution": "Extreme cold or heat can be dangerous; a cold unresponsive hamster needs urgent veterinary advice."
+  },
+  {
+    "id": 14,
+    "title": "Quiet daytime resting",
+    "category": "Behaviour",
+    "frequency": "Daily",
+    "steps": [
+      "Place the enclosure in a calm area away from loud music and daytime disturbance.",
+      "Allow uninterrupted sleep during daylight hours.",
+      "Plan interaction for when the hamster wakes naturally."
+    ],
+    "caution": "Repeated waking can cause stress and defensive biting."
+  },
+  {
+    "id": 15,
+    "title": "Understanding nocturnal activity",
+    "category": "Behaviour",
+    "frequency": "Daily",
+    "steps": [
+      "Expect most activity in the evening and overnight.",
+      "Observe food gathering, digging and wheel use when awake.",
+      "Keep a consistent routine around natural activity times."
+    ],
+    "caution": "A hamster sleeping through the day is usually normal."
+  },
+  {
+    "id": 16,
+    "title": "Reading hamster body language",
+    "category": "Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for freezing, flattening, squeaking or frantic attempts to escape.",
+      "Stop handling when the hamster seems frightened.",
+      "Offer a retreat to a familiar hide."
+    ],
+    "caution": "Biting may be a fear response, not misbehaviour."
+  },
+  {
+    "id": 17,
+    "title": "Gentle first-day settling",
+    "category": "Handling",
+    "frequency": "As needed",
+    "steps": [
+      "Set up the enclosure fully before bringing the hamster home.",
+      "Allow several quiet days to settle with minimal disturbance.",
+      "Offer food and water without forcing interaction."
+    ],
+    "caution": "Avoid lifting a newly arrived hamster before it feels secure."
+  },
+  {
+    "id": 18,
+    "title": "Hand-taming with treats",
+    "category": "Handling",
+    "frequency": "As needed",
+    "steps": [
+      "Offer a tiny suitable treat on an open palm while the hamster is awake.",
+      "Let it approach and step onto your hand voluntarily.",
+      "Practise short calm sessions close to the floor."
+    ],
+    "caution": "Never chase, grab or wake a hamster to tame it."
+  },
+  {
+    "id": 19,
+    "title": "Safe lifting and carrying",
+    "category": "Handling",
+    "frequency": "As needed",
+    "steps": [
+      "Scoop gently with both hands or use a familiar mug or tunnel.",
+      "Keep the hamster low over a secure surface.",
+      "Return it promptly if it struggles."
+    ],
+    "caution": "Hamsters can jump suddenly and be seriously injured by falls."
+  },
+  {
+    "id": 20,
+    "title": "Handling with children",
+    "category": "Handling",
+    "frequency": "As needed",
+    "steps": [
+      "Supervise children closely and teach them to stay seated during handling.",
+      "Let the hamster approach rather than forcing contact.",
+      "Wash hands after handling and cleaning."
+    ],
+    "caution": "Hamsters are delicate and may bite when startled."
+  },
+  {
+    "id": 21,
+    "title": "Playpen exercise sessions",
+    "category": "Exercise",
+    "frequency": "As needed",
+    "steps": [
+      "Use a secure escape-proof playpen with familiar hides and toys.",
+      "Supervise the hamster throughout the session.",
+      "Return it to the enclosure before it becomes stressed."
+    ],
+    "caution": "Never leave a hamster loose near cables, furniture gaps or other pets."
+  },
+  {
+    "id": 22,
+    "title": "Avoiding exercise balls",
+    "category": "Exercise",
+    "frequency": "As needed",
+    "steps": [
+      "Provide a suitable wheel and supervised playpen instead.",
+      "Offer tunnels, boxes and safe exploration objects.",
+      "Let the hamster choose when to explore."
+    ],
+    "caution": "Exercise balls restrict control and ventilation and can cause injury or stress."
+  },
+  {
+    "id": 23,
+    "title": "Cardboard tunnels and hides",
+    "category": "Enrichment",
+    "frequency": "Weekly",
+    "steps": [
+      "Offer clean plain cardboard tubes or boxes without staples or tape.",
+      "Cut larger openings for a Syrian hamster.",
+      "Replace items when chewed or soiled."
+    ],
+    "caution": "Check openings carefully to prevent entrapment."
+  },
+  {
+    "id": 24,
+    "title": "Scatter feeding for enrichment",
+    "category": "Enrichment",
+    "frequency": "Daily",
+    "steps": [
+      "Sprinkle part of the normal food ration around safe bedding.",
+      "Allow the hamster to forage and store food.",
+      "Check that hidden fresh food does not spoil."
+    ],
+    "caution": "Scatter feeding should not increase the total daily ration."
+  },
+  {
+    "id": 25,
+    "title": "Dig boxes and substrates",
+    "category": "Enrichment",
+    "frequency": "Weekly",
+    "steps": [
+      "Provide a separate dig area with an appropriate hamster-safe substrate.",
+      "Offer varied textures such as safe paper bedding or suitable coco soil.",
+      "Keep the area dry and check for mould."
+    ],
+    "caution": "Do not use garden soil containing fertilisers or pesticides."
+  },
+  {
+    "id": 26,
+    "title": "Safe chew materials",
+    "category": "Enrichment",
+    "frequency": "Weekly",
+    "steps": [
+      "Offer untreated hamster-safe wood chews or appropriate cardboard.",
+      "Inspect toys for splinters, glue and loose parts.",
+      "Replace damaged items promptly."
+    ],
+    "caution": "Avoid painted or chemically treated wood."
+  },
+  {
+    "id": 27,
+    "title": "Choosing a balanced staple food",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Select a complete hamster food suitable for the species.",
+      "Follow the manufacturer's feeding guide and monitor body condition.",
+      "Use treats sparingly alongside the staple diet."
+    ],
+    "caution": "Dwarf hamsters may have different dietary considerations; ask a knowledgeable vet."
+  },
+  {
+    "id": 28,
+    "title": "Fresh water every day",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Provide clean drinking water in a suitable bottle or stable shallow bowl.",
+      "Check that the bottle spout works and the bowl is not buried.",
+      "Refresh and clean the container regularly."
+    ],
+    "caution": "Lack of drinking water can quickly become serious."
+  },
+  {
+    "id": 29,
+    "title": "Safe vegetable portions",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Offer tiny portions of suitable washed vegetables.",
+      "Introduce new foods one at a time.",
+      "Remove uneaten fresh food before it spoils."
+    ],
+    "caution": "Large portions or sudden dietary changes may cause digestive upset."
+  },
+  {
+    "id": 30,
+    "title": "Treats and sugary foods",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Keep treats small and infrequent.",
+      "Prefer appropriate species-safe options rather than sugary human snacks.",
+      "Monitor weight and food hoarding."
+    ],
+    "caution": "Avoid chocolate, sweets and sticky sugary foods."
+  },
+  {
+    "id": 31,
+    "title": "Foods to keep away",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Keep chocolate, alcohol, caffeine and seasoned human food out of reach.",
+      "Check the safety of unfamiliar fruit, vegetables and plants before offering them.",
+      "Store pet food away from household chemicals."
+    ],
+    "caution": "Do not guess whether a food is safe; consult reliable species-specific guidance."
+  },
+  {
+    "id": 32,
+    "title": "Protein in the diet",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Choose a nutritionally complete hamster mix containing suitable protein.",
+      "If offering extras, use only tiny species-appropriate portions.",
+      "Remove perishable food promptly."
+    ],
+    "caution": "Do not substitute random high-protein snacks for a balanced staple diet."
+  },
+  {
+    "id": 33,
+    "title": "Checking hidden food stores",
+    "category": "Feeding",
+    "frequency": "Weekly",
+    "steps": [
+      "Inspect accessible hoards gently during spot cleaning.",
+      "Remove damp or mouldy food and old fresh produce.",
+      "Leave clean dry staple food stores where practical."
+    ],
+    "caution": "Avoid repeatedly destroying the entire hoard, which can cause stress."
+  },
+  {
+    "id": 34,
+    "title": "Spot cleaning without stress",
+    "category": "Cleaning",
+    "frequency": "Weekly",
+    "steps": [
+      "Remove wet bedding and obvious waste from toilet areas.",
+      "Leave clean nesting material and familiar scent where possible.",
+      "Replace only what is necessary with fresh safe bedding."
+    ],
+    "caution": "Avoid stripping the entire enclosure unnecessarily."
+  },
+  {
+    "id": 35,
+    "title": "Full enclosure refresh planning",
+    "category": "Cleaning",
+    "frequency": "As needed",
+    "steps": [
+      "Plan a larger refresh only when hygiene requires it.",
+      "Retain some clean old bedding to preserve familiar scent.",
+      "Keep the hamster in a secure ventilated carrier during maintenance."
+    ],
+    "caution": "Frequent total clean-outs can be stressful and disrupt burrows."
+  },
+  {
+    "id": 36,
+    "title": "Cleaning the wheel and sand bath",
+    "category": "Cleaning",
+    "frequency": "Weekly",
+    "steps": [
+      "Wipe the wheel with a pet-safe method and dry fully.",
+      "Sift the sand bath and replace soiled sand.",
+      "Return equipment to familiar positions."
+    ],
+    "caution": "Never leave strong cleaning-product residues on toys."
+  },
+  {
+    "id": 37,
+    "title": "Cleaning food and water dishes",
+    "category": "Cleaning",
+    "frequency": "Daily",
+    "steps": [
+      "Wash bowls and bottles with hot water and appropriate pet-safe methods.",
+      "Rinse thoroughly and dry.",
+      "Check bottles for leaks and blocked nozzles."
+    ],
+    "caution": "Do not use strongly fragranced cleaners."
+  },
+  {
+    "id": 38,
+    "title": "Recognising normal cheek pouch use",
+    "category": "Health Awareness",
+    "frequency": "Daily",
+    "steps": [
+      "Observe the hamster collecting and transporting food in its cheeks.",
+      "Allow it to empty pouches naturally in a quiet space.",
+      "Watch for persistent swelling or trouble eating."
+    ],
+    "caution": "A pouch that stays swollen or appears infected needs veterinary attention."
+  },
+  {
+    "id": 39,
+    "title": "Weekly weight monitoring",
+    "category": "Health Awareness",
+    "frequency": "Weekly",
+    "steps": [
+      "Use a small digital scale and secure container.",
+      "Weigh at a similar time each week.",
+      "Record changes alongside appetite and activity."
+    ],
+    "caution": "Unexpected weight loss can indicate illness and needs veterinary assessment."
+  },
+  {
+    "id": 40,
+    "title": "Checking eyes and nose",
+    "category": "Health Awareness",
+    "frequency": "Weekly",
+    "steps": [
+      "Observe whether eyes are clear and the nose is free of discharge.",
+      "Note squinting, crusting or noisy breathing.",
+      "Seek veterinary advice if symptoms appear."
+    ],
+    "caution": "Do not apply human eye drops or medicines without a vet."
+  },
+  {
+    "id": 41,
+    "title": "Checking teeth and chewing",
+    "category": "Health Awareness",
+    "frequency": "Weekly",
+    "steps": [
+      "Watch the hamster eat and chew normally.",
+      "Offer safe chewing materials and appropriate food.",
+      "Seek veterinary care for drooling, difficulty eating or abnormal tooth growth."
+    ],
+    "caution": "Do not attempt to trim teeth yourself."
+  },
+  {
+    "id": 42,
+    "title": "Coat and skin checks",
+    "category": "Health Awareness",
+    "frequency": "Weekly",
+    "steps": [
+      "Look for bald patches, redness, wounds or excessive scratching.",
+      "Review bedding and possible irritation.",
+      "Consult a vet if skin changes persist or worsen."
+    ],
+    "caution": "Do not use flea products intended for dogs or cats."
+  },
+  {
+    "id": 43,
+    "title": "When a hamster stops eating",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Check whether the hamster is awake and normally active.",
+      "Note any lack of food intake, droppings or water consumption.",
+      "Contact an exotic-pet vet promptly if appetite has stopped."
+    ],
+    "caution": "Small animals can deteriorate quickly; do not wait days for improvement."
+  },
+  {
+    "id": 44,
+    "title": "Diarrhoea and wet tail warning",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Check for wetness around the rear, diarrhoea, lethargy or poor appetite.",
+      "Keep the hamster warm and calm while arranging immediate veterinary help.",
+      "Clean the enclosure only as advised to avoid further stress."
+    ],
+    "caution": "Wet tail and severe diarrhoea are emergencies, especially in young hamsters."
+  },
+  {
+    "id": 45,
+    "title": "Breathing difficulties",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for laboured breathing, clicking, discharge or unusual stillness.",
+      "Minimise stress and keep the environment comfortable.",
+      "Contact an exotic-pet vet urgently."
+    ],
+    "caution": "Never give human cold medicines or antibiotics without veterinary direction."
+  },
+  {
+    "id": 46,
+    "title": "Lumps and swellings",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Note the size, location and appearance of a lump.",
+      "Avoid squeezing or puncturing it.",
+      "Arrange a veterinary examination."
+    ],
+    "caution": "Not all swellings are harmless; diagnosis requires a vet."
+  },
+  {
+    "id": 47,
+    "title": "Caring for senior hamsters",
+    "category": "Life Stages",
+    "frequency": "Daily",
+    "steps": [
+      "Make food and water easy to reach without climbing.",
+      "Provide soft accessible bedding and stable wheel access.",
+      "Monitor weight, grooming and movement more closely."
+    ],
+    "caution": "New weakness or appetite changes should be assessed by a vet."
+  },
+  {
+    "id": 48,
+    "title": "Preparing for a veterinary visit",
+    "category": "Veterinary Care",
+    "frequency": "As needed",
+    "steps": [
+      "Locate an exotic-pet vet before an emergency happens.",
+      "Use a secure carrier with familiar bedding and ventilation.",
+      "Bring notes on food, symptoms, weight and housing."
+    ],
+    "caution": "Avoid overheating or chilling during travel."
+  },
+  {
+    "id": 49,
+    "title": "Travel and temporary care",
+    "category": "Responsible Care",
+    "frequency": "As needed",
+    "steps": [
+      "Arrange a reliable carer familiar with the hamster's nocturnal routine.",
+      "Leave written feeding, cleaning and emergency instructions.",
+      "Keep the enclosure secure and avoid unnecessary transport."
+    ],
+    "caution": "Do not leave a hamster unattended for several days."
+  },
+  {
+    "id": 50,
+    "title": "Escaped hamster search",
+    "category": "Emergencies",
+    "frequency": "As needed",
+    "steps": [
+      "Close doors and remove other pets from the area.",
+      "Search quietly at dusk near walls, furniture and warm hiding places.",
+      "Place familiar bedding and a safe food lure in a secure humane capture setup."
+    ],
+    "caution": "Never use glue traps or hazardous snap traps."
+  },
+  {
+    "id": 51,
+    "title": "Emergency supplies checklist",
+    "category": "Emergencies",
+    "frequency": "As needed",
+    "steps": [
+      "Keep a secure carrier, spare bedding, water container and vet contact details ready.",
+      "Maintain a backup food supply and a working thermometer.",
+      "Review the kit before holidays or moves."
+    ],
+    "caution": "Emergency supplies do not replace prompt veterinary care."
+  }
+]
